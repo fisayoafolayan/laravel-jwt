@@ -41,6 +41,10 @@ Generate JWT secret
 ```
 php artisan jwt:secret
 ```
+Create sqlite file
+```
+touch database/database.sqlite
+```
 
 Migrate the application
 ```
