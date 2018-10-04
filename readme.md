@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 # Laravel and JWT      
 
 This is a simple implementation of JWT with Laravel. It has basic authentication features set up.
